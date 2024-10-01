@@ -1,5 +1,9 @@
 this is the first line
 this is second line
 gthis is third line
+<<<<<<< Updated upstream
 this ed 
 nkkdccn,mcx msnd
+=======
+this ed isadded again
+>>>>>>> Stashed changes
